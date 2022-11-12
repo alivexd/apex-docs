@@ -1,57 +1,23 @@
-Statement
+# Privacy Policy
 
-We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Apex or servers where Apex is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+The use of this application ("Apex") in a server requires the collection of some specific user data ("Data"). The Data collected includes, but is not limited to Discord user ID values. Use of the Bot is considered an agreement to the terms of this Policy. 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our website or bot. By adding Apex to your Discord server, you agree that you have read and agree to this policy.
+## Access to Data
 
-What does it store?
+Access to Data is only permitted to Bot's developers (Alive#1100 and Raaz#2233), and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement.
 
-Server IDs for server data (prefixes, settings, Djrole, welcome, automod, logging).
+## Storage of Data
 
-User IDs to keep a record of afk, warn, mute.
+Data is stored in a MongoDB database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application. The data is stored as long as the bot is in your server and as soon as the bot is kicked or removed from the server, the data is deleted and is no longer to accessable to anyone.
 
-Few parts of message content for logging system and chatbot system.
+## User Rights
 
-Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Apex's users.
+At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://apexbot.xyz). You have the right to request the removal of relevant Data.
 
-The information we collect when you vote for Apex on the third-party website Discord bot list
+## Underage Users
 
-Your Username
+The use of the Bot is not permitted for minors under the age of 13, or under the age of legal consent for their country. This is in compliance with the [Discord Terms of Service](https://discord.com/terms). No information will be knowingly stored from an underage user. If it is found out that a user is underage we will take all necessary action to delete the stored data.
 
-Date and time when the votes counted.
+## Questions
 
-We store this data on MongoDB private cluster and it will delete if you are not using our bot for the future.
-
-What logs bot will send into your server?
-
-The bot will send the deleted messages in the selected log channel.
-
-The bot will send the message content which is changed by any users in the selected log channel.
-
-Note: These are very sensitive for every user's privacy so we recommend to admins that take the log channels as private or mod only.
-
-Who can access the data?
-
-Following people can access ALL of the data:
-
-Bot developer(s)
-
-Following people can access message content :
-
-Server Moderator(s), Everyone (If server moderators opt to log it in a public channel)
-
-Following people can access message content :
-
-Bot developer(s)
-
-How can I get rid of the data stored?
-
-To remove the server id or user id stored in our database do one of the following:
-
-Contact any of the server moderators in our discord support server.
-
-Ask server mod(s) to remove the logged message or just wait for 24 hours, after being they are removed automatically after 24 hours.
-
-HOW CAN I CONTACT YOU?
-
-If you have specific questions about our privacy policy you can send us an Email and you can simply join our discord support server
+If you have any questions or are concerned about what data might be being stored from your account contact `@Alive#1100`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
